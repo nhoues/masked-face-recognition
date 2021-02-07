@@ -5,7 +5,7 @@ from torch.nn import functional as F
 
 
 class FaceNet(nn.Module):
-    def __init__(self, pretrained=True):
+    def __init__(self, num_classes = 1 , pretrained=True):
         super(FaceNet, self).__init__()
         if pretrained:
             self.model = InceptionResnetV1(
@@ -13,7 +13,7 @@ class FaceNet(nn.Module):
             )
         else:
             self.model = InceptionResnetV1(
-                classify=True, num_classes=1, pretrained=None
+                classify=True, num_classes=num_classes, pretrained=None
             )
 
     def forward(self, x):
