@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt 
 
+import numpy as np
+
 def plot_unmasked_and_masked( unmasked , masked ):
     fig, axs = plt.subplots(1, 2, figsize=(12,8))
 
@@ -15,3 +17,6 @@ def plot_unmasked_and_masked( unmasked , masked ):
     # set suptitle
     plt.suptitle('unmasked vs masked')
     plt.show()
+    
+def correct_name(x) : 
+    return x[:-1]

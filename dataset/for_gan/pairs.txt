@@ -1,0 +1,848 @@
+MitchMcConnell 3 4
+ImranKhan 2 SimonCowell 3
+RoyCooper 3 ZuzanaCaputova 5
+UddhavThackery 1 RonDesantis 1
+TsaiIngwen 1 3
+GaryHerbert 3 7
+ReneeMorrison 2 DonnellRawlings 2
+BrianKemp 4 DennyTamaki 8
+NancyPelosi 3 4
+IgorMatovic 4 SimonCowell 2
+ZuzanaCaputova 4 DennyTamaki 5
+ImranKhan 6 DougDucey 4
+XiJinping 2 GaryHerbert 1
+MitchMcConnell 2 4
+NancyPelosi 2 BrianKemp 1
+GaryHerbert 8 UddhavThackery 1
+LarryHogan 3 6
+JustinTrudeau 1 4
+ZuzanaCaputova 5 7
+GaryHerbert 6 7
+EmmanuelMacron 1 3
+ImranKhan 3 PharrellWilliams 2
+GavinNewsom 2 EricGarcetti 4
+DennyTamaki 4 5
+MikeDewine 2 LarryHogan 5
+ImranKhan 4 5
+TsaiIngwen 4 CarrieLam 4
+LadyGaga 4 BellaHadid 2
+NancyPelosi 6 LadyGaga 1
+YurikoKoike 7 SteveHarvey 2
+DennyTamaki 8 MuhammadFahmi 1
+LadyGaga 1 3
+GaryHerbert 6 VassilisKikilias 2
+JonathanBennet 1 MitchMcConnell 5
+BenAffleck 2 TsaiIngwen 4
+BrodyJenner 1 ZacEfron 2
+TsaiIngwen 1 5
+JaredPolis 1 6
+JustinTrudeau 5 XiJinping 4
+RalphNortham 2 StevenReed 3
+JaredPolis 3 5
+PhilMurphy 4 YurikoKoike 2
+KyriakosMitsotakis 4 GavinNewsom 1
+CharlieBaker 1 3
+NancyPelosi 3 7
+GaryHerbert 7 ZacEfron 1
+JaredPolis 1 5
+GretchenWhitmer 2 GavinNewsom 6
+XiJinping 1 3
+GaryHerbert 7 YoshihideSuga 6
+BellaHadid 2 TsaiIngwen 4
+GaryHerbert 2 8
+BenAffleck 1 UddhavThackery 2
+PharrellWilliams 1 GaryHerbert 5
+LadyGaga 2 MuhammadFahmi 3
+SteveHarvey 1 BrianKemp 5
+GaryHerbert 2 PharrellWilliams 3
+MatthewMorrison 1 2
+DougDucey 5 GaryHerbert 4
+TsaiIngwen 2 PharrellWilliams 1
+JoeBiden 5 SimonCowell 2
+UddhavThackery 2 KimKardashian 1
+LadyGaga 5 CharlieBaker 3
+YoshihideSuga 2 5
+GaryHerbert 1 3
+TomWolf 3 ZuzanaCaputova 1
+CharlieBaker 3 5
+VassilisKikilias 1 2
+ImranKhan 3 AhmadAli 1
+ImranKhan 3 5
+GaryHerbert 3 8
+GavinNewsom 2 3
+SimonCowell 4 JoeBiden 5
+TomWolf 4 BrianKemp 2
+GretchenWhitmer 2 3
+MitchMcConnell 2 5
+MitchMcConnell 1 MatthewMorrison 3
+AhmadAli 1 3
+ZuzanaCaputova 8 KyriakosMitsotakis 1
+AhmadAli 2 4
+LarryHogan 3 ZuzanaCaputova 3
+GaryHerbert 2 CharlieBaker 6
+MitchMcConnell 3 5
+RoyCooper 3 4
+ArifAlvi 1 CharlieBaker 3
+TsaiIngwen 1 MatthewMorrison 3
+NancyPelosi 6 7
+YurikoKoike 3 4
+GaryHerbert 6 KyriakosMitsotakis 3
+DonnellRawlings 2 GaryHerbert 2
+CarrieLam 3 UddhavThackery 3
+TsaiIngwen 4 GretchenWhitmer 3
+PhilMurphy 2 3
+JustinTrudeau 1 5
+TomWolf 2 3
+YurikoKoike 1 3
+GavinNewsom 3 5
+GaryHerbert 4 TsaiIngwen 6
+AdrianDunbar 2 3
+ImranKhan 6 RoyCooper 1
+GavinNewsom 1 3
+KimKardashian 2 LarryHogan 1
+YurikoKoike 6 SteveHarvey 2
+CarrieLam 2 3
+RoyCooper 4 5
+MitchMcConnell 3 EmmanuelMacron 6
+IgorMatovic 5 StevenReed 1
+RonDesantis 3 5
+EricGarcetti 1 CarrieLam 5
+PhilMurphy 1 6
+TsaiIngwen 2 DougDucey 5
+UddhavThackery 3 LadyGaga 4
+EricGarcetti 1 3
+GaryHerbert 4 8
+ImranKhan 4 ZuzanaCaputova 6
+MatthewMorrison 3 EmmanuelMacron 3
+StevenReed 3 ZacEfron 1
+GaryHerbert 4 RonDesantis 3
+DougDucey 3 JaredPolis 5
+PharrellWilliams 2 3
+JaredPolis 1 LadyGaga 3
+DougDucey 1 5
+ZuzanaCaputova 3 6
+NancyPelosi 1 5
+JaredPolis 2 8
+BellaHadid 1 2
+CarrieLam 5 TomWolf 6
+PharrellWilliams 1 TomWolf 6
+GavinNewsom 2 4
+EmmanuelMacron 1 TomWolf 4
+NancyPelosi 4 7
+JustinTrudeau 6 YurikoKoike 7
+MatthewMorrison 3 CharlieBaker 6
+RonDesantis 3 MikeDewine 5
+DougDucey 2 5
+JaredPolis 8 SimonCowell 3
+AhmadAli 1 4
+PhilMurphy 2 6
+DennyTamaki 6 7
+ZacEfron 2 YurikoKoike 4
+ZuzanaCaputova 3 5
+DennyTamaki 1 4
+KimKardashian 2 CarrieLam 5
+PharrellWilliams 2 TomWolf 4
+RoyCooper 1 2
+JaredPolis 2 3
+EricGarcetti 2 TomWolf 5
+DougDucey 4 UddhavThackery 3
+YoshihideSuga 1 4
+GaryHerbert 2 5
+SimonCowell 2 NancyPelosi 3
+CharlieBaker 1 4
+YoshihideSuga 3 GavinNewsom 6
+MitchMcConnell 4 5
+TakeOff 1 2
+SimonCowell 1 3
+PhilMurphy 1 4
+LarryHogan 2 DougDucey 1
+CharlieBaker 1 BrodyJenner 2
+NancyPelosi 2 SimonCowell 3
+CharlieBaker 2 4
+ZuzanaCaputova 4 7
+AdrianDunbar 2 KyriakosMitsotakis 3
+MatthewMorrison 1 YurikoKoike 7
+JustinTrudeau 3 GaryHerbert 1
+YurikoKoike 3 ZacEfron 2
+GavinNewsom 1 4
+JaredPolis 7 NancyPelosi 6
+TomWolf 1 2
+GaryHerbert 4 6
+JaredPolis 9 StevenReed 4
+ImranKhan 1 5
+EmmanuelMacron 4 5
+JaredPolis 4 6
+CarrieLam 1 5
+MatthewMorrison 1 IgorMatovic 5
+PhilMurphy 6 EmmanuelMacron 4
+SimonCowell 4 PhilMurphy 2
+YurikoKoike 3 5
+JaredPolis 1 3
+ZacEfron 1 BenAffleck 1
+RonDesantis 1 2
+GavinNewsom 2 5
+BellaHadid 2 CarrieLam 2
+NancyPelosi 1 4
+JoeBiden 4 LarryHogan 2
+RalphNortham 2 3
+StevenReed 2 5
+ZuzanaCaputova 2 GaryHerbert 7
+BrodyJenner 1 AhmadAli 1
+BenAffleck 1 5
+LarryHogan 2 5
+MatthewMorrison 1 BenAffleck 3
+DennyTamaki 1 5
+RonDesantis 2 AdrianDunbar 4
+IgorMatovic 2 4
+NancyPelosi 2 5
+DennyTamaki 6 GaryHerbert 6
+KyriakosMitsotakis 1 2
+KyriakosMitsotakis 4 ImranKhan 2
+LarryHogan 1 ArifAlvi 3
+CarrieLam 1 4
+LarryHogan 2 6
+JaredPolis 2 4
+PhilMurphy 4 5
+MikeDewine 2 4
+MikeDewine 1 4
+CarrieLam 2 GretchenWhitmer 3
+GaryHerbert 2 3
+GretchenWhitmer 1 DonnellRawlings 1
+BrianKemp 2 4
+RoyCooper 4 NancyPelosi 6
+DougDucey 5 StevenReed 4
+LarryHogan 1 2
+GretchenWhitmer 1 4
+LadyGaga 1 4
+TsaiIngwen 4 5
+RalphNortham 5 ZuzanaCaputova 7
+GaryHerbert 3 6
+JoeBiden 1 3
+ZuzanaCaputova 3 7
+JaredPolis 3 4
+PhilMurphy 1 3
+GaryHerbert 3 5
+CharlieBaker 7 KimKardashian 2
+TomWolf 2 4
+DougDucey 3 5
+CharlieBaker 3 4
+TsaiIngwen 2 3
+RoyCooper 1 3
+StevenReed 3 ImranKhan 3
+StevenReed 4 5
+MikeDewine 3 DougDucey 4
+BrodyJenner 1 IgorMatovic 3
+NancyPelosi 2 4
+DonnellRawlings 1 RalphNortham 1
+CharlieBaker 5 NancyPelosi 1
+ImranKhan 1 2
+CharlieBaker 7 TakeOff 3
+GaryHerbert 6 8
+NancyPelosi 5 6
+KyriakosMitsotakis 3 4
+PhilMurphy 5 CharlieBaker 3
+ZuzanaCaputova 2 PharrellWilliams 3
+ZuzanaCaputova 8 TaroKono 1
+CharlieBaker 5 PhilMurphy 5
+BrianKemp 1 4
+RonDesantis 3 4
+RonDesantis 1 4
+EmmanuelMacron 3 DougDucey 2
+DougDucey 6 BenAffleck 4
+CharlieBaker 1 5
+DennyTamaki 3 SteveHarvey 1
+GretchenWhitmer 3 4
+ImranKhan 5 PhilMurphy 4
+GretchenWhitmer 2 UddhavThackery 2
+RoyCooper 5 ZuzanaCaputova 7
+YoshihideSuga 2 3
+TsaiIngwen 1 NancyPelosi 5
+TomWolf 1 PhilMurphy 2
+JaredPolis 5 6
+ZuzanaCaputova 2 JaredPolis 2
+EmmanuelMacron 4 EricGarcetti 1
+TomWolf 1 RonDesantis 1
+LadyGaga 1 2
+RonDesantis 1 3
+PharrellWilliams 1 3
+RonDesantis 4 JoeBiden 2
+XiJinping 2 JonathanBennet 2
+DennyTamaki 2 7
+BenAffleck 1 3
+NancyPelosi 4 ImranKhan 6
+GretchenWhitmer 3 ZuzanaCaputova 1
+CharlieBaker 2 5
+DougDucey 1 TsaiIngwen 1
+CarrieLam 1 2
+AdrianDunbar 2 ReneeMorrison 2
+KyriakosMitsotakis 1 3
+EricGarcetti 1 4
+UddhavThackery 1 2
+RonDesantis 5 VassilisKikilias 1
+DennyTamaki 7 JaredPolis 4
+JustinTrudeau 3 5
+TsaiIngwen 1 2
+DonnellRawlings 1 TsaiIngwen 6
+RoyCooper 3 YurikoKoike 4
+JoeBiden 2 3
+PhilMurphy 3 YoshihideSuga 4
+LarryHogan 4 RonDesantis 3
+LadyGaga 3 4
+MikeDewine 3 4
+ZuzanaCaputova 4 EricGarcetti 2
+JustinTrudeau 4 MatthewMorrison 1
+YoshihideSuga 3 GretchenWhitmer 4
+JoeBiden 4 XiJinping 1
+NancyPelosi 3 6
+MikeDewine 5 BellaHadid 3
+RalphNortham 1 4
+GavinNewsom 4 5
+MitchMcConnell 1 3
+JaredPolis 2 9
+GaryHerbert 6 DougDucey 5
+BrianKemp 4 LarryHogan 2
+CharlieBaker 7 RoyCooper 2
+LarryHogan 2 3
+IgorMatovic 2 TsaiIngwen 1
+LarryHogan 6 MitchMcConnell 1
+BenAffleck 3 5
+SteveHarvey 1 ReneeMorrison 1
+DennyTamaki 1 2
+NancyPelosi 2 AdrianDunbar 1
+BrianKemp 4 GaryHerbert 7
+ZuzanaCaputova 1 3
+JaredPolis 6 CharlieBaker 3
+ZuzanaCaputova 7 JonathanBennet 3
+RalphNortham 5 PhilMurphy 4
+KyriakosMitsotakis 2 MuhammadFahmi 1
+LarryHogan 5 6
+CharlieBaker 2 LadyGaga 5
+CarrieLam 2 4
+NancyPelosi 3 5
+GavinNewsom 1 5
+KyriakosMitsotakis 2 3
+CarrieLam 1 3
+MikeDewine 4 GaryHerbert 5
+CarrieLam 3 StevenReed 3
+DougDucey 3 CharlieBaker 4
+RonDesantis 1 5
+YurikoKoike 4 6
+JustinTrudeau 3 4
+DennyTamaki 3 7
+ZuzanaCaputova 5 6
+RoyCooper 6 GaryHerbert 1
+DougDucey 2 4
+YoshihideSuga 1 MitchMcConnell 5
+CarrieLam 3 BenAffleck 6
+FloydMayweather 1 2
+GaryHerbert 1 6
+MikeDewine 2 3
+TsaiIngwen 5 VassilisKikilias 1
+ZuzanaCaputova 4 GretchenWhitmer 5
+KyriakosMitsotakis 5 DougDucey 1
+YoshihideSuga 2 XiJinping 2
+RalphNortham 2 4
+BenAffleck 2 4
+StevenReed 1 3
+JaredPolis 1 8
+BrodyJenner 2 TaroKono 2
+IgorMatovic 3 4
+AhmadAli 1 2
+ZuzanaCaputova 1 5
+CarrieLam 4 IgorMatovic 3
+RonDesantis 3 KyriakosMitsotakis 4
+ZuzanaCaputova 6 7
+EmmanuelMacron 6 SteveHarvey 2
+JustinTrudeau 1 DennyTamaki 4
+YurikoKoike 5 6
+TomWolf 1 3
+GavinNewsom 2 RalphNortham 4
+JaredPolis 6 7
+GretchenWhitmer 5 NancyPelosi 1
+PhilMurphy 6 CharlieBaker 4
+CharlieBaker 2 3
+IgorMatovic 1 4
+NancyPelosi 2 6
+StevenReed 2 4
+XiJinping 1 4
+TaroKono 2 AdrianDunbar 4
+LadyGaga 1 DennyTamaki 3
+ArifAlvi 1 3
+YoshihideSuga 5 AhmadAli 2
+DougDucey 5 TomWolf 4
+BrodyJenner 1 IgorMatovic 2
+UddhavThackery 1 PharrellWilliams 4
+JustinTrudeau 2 DennyTamaki 7
+XiJinping 1 DougDucey 5
+PhilMurphy 4 6
+LarryHogan 5 JoeBiden 5
+BenAffleck 5 6
+ImranKhan 3 4
+TsaiIngwen 2 4
+RalphNortham 5 RonDesantis 6
+ZuzanaCaputova 2 3
+RalphNortham 1 3
+BenAffleck 7 JaredPolis 6
+IgorMatovic 2 3
+PhilMurphy 1 5
+TomWolf 5 VassilisKikilias 3
+DennyTamaki 4 7
+StevenReed 4 CharlieBaker 6
+KyriakosMitsotakis 3 JaredPolis 6
+MikeDewine 1 CharlieBaker 1
+PhilMurphy 1 ImranKhan 1
+YurikoKoike 3 AhmadAli 1
+TsaiIngwen 2 YoshihideSuga 2
+CharlieBaker 2 XiJinping 1
+GaryHerbert 1 5
+ZuzanaCaputova 1 2
+AhmadAli 1 TsaiIngwen 4
+MuhammadFahmi 2 3
+AdrianDunbar 1 2
+YurikoKoike 1 5
+EmmanuelMacron 5 PhilMurphy 1
+MitchMcConnell 5 GaryHerbert 8
+RonDesantis 5 BrianKemp 2
+YoshihideSuga 4 5
+JustinTrudeau 1 TomWolf 6
+NancyPelosi 4 5
+EmmanuelMacron 1 ZuzanaCaputova 8
+StevenReed 3 5
+PharrellWilliams 1 2
+GavinNewsom 3 4
+ZuzanaCaputova 3 4
+GaryHerbert 4 5
+MikeDewine 1 ArifAlvi 4
+BenAffleck 2 5
+LarryHogan 4 6
+JaredPolis 1 4
+ZacEfron 1 2
+JustinTrudeau 2 5
+ZuzanaCaputova 4 6
+PhilMurphy 2 JonathanBennet 1
+YoshihideSuga 1 3
+BrianKemp 2 3
+DougDucey 1 4
+JaredPolis 3 8
+MuhammadFahmi 1 3
+BenAffleck 3 6
+YoshihideSuga 3 4
+DennyTamaki 5 6
+JustinTrudeau 1 3
+NancyPelosi 5 PharrellWilliams 3
+JaredPolis 7 9
+LadyGaga 3 TomWolf 2
+RoyCooper 2 4
+BenAffleck 4 5
+CarrieLam 1 XiJinping 4
+DennyTamaki 2 3
+GaryHerbert 2 4
+MitchMcConnell 2 GaryHerbert 9
+BrianKemp 1 3
+XiJinping 2 4
+PharrellWilliams 2 AhmadAli 4
+NancyPelosi 1 7
+PhilMurphy 3 GaryHerbert 6
+YoshihideSuga 4 PharrellWilliams 3
+SteveHarvey 2 DougDucey 4
+TsaiIngwen 1 LarryHogan 5
+CarrieLam 3 4
+AdrianDunbar 2 YoshihideSuga 2
+CharlieBaker 4 5
+TomWolf 2 EmmanuelMacron 1
+IgorMatovic 1 3
+LarryHogan 1 4
+MikeDewine 1 ZuzanaCaputova 1
+AhmadAli 3 4
+BenAffleck 2 SteveHarvey 2
+YurikoKoike 7 EmmanuelMacron 4
+CarrieLam 3 MatthewMorrison 3
+StevenReed 3 TsaiIngwen 1
+SimonCowell 2 GavinNewsom 3
+JoeBiden 3 GaryHerbert 5
+RonDesantis 2 5
+BenAffleck 1 4
+MuhammadFahmi 3 LarryHogan 5
+StevenReed 3 JaredPolis 9
+ImranKhan 2 5
+PharrellWilliams 3 YoshihideSuga 4
+SimonCowell 2 3
+CarrieLam 6 PhilMurphy 1
+ZuzanaCaputova 2 7
+AhmadAli 2 EmmanuelMacron 5
+BenAffleck 1 6
+TomWolf 1 5
+TsaiIngwen 1 4
+RonDesantis 3 ZuzanaCaputova 1
+CarrieLam 5 DougDucey 3
+DennyTamaki 3 5
+DougDucey 4 5
+GaryHerbert 9 PharrellWilliams 2
+EmmanuelMacron 2 5
+XiJinping 3 4
+ZuzanaCaputova 2 4
+RalphNortham 1 2
+NancyPelosi 1 2
+EmmanuelMacron 2 3
+AdrianDunbar 4 ZuzanaCaputova 7
+LarryHogan 3 4
+RonDesantis 3 MuhammadFahmi 1
+ImranKhan 2 3
+CharlieBaker 4 XiJinping 3
+JaredPolis 7 8
+TomWolf 5 AdrianDunbar 3
+IgorMatovic 2 TsaiIngwen 1
+MatthewMorrison 3 ReneeMorrison 3
+YoshihideSuga 3 5
+YurikoKoike 7 IgorMatovic 3
+AhmadAli 2 3
+ZuzanaCaputova 1 6
+JustinTrudeau 2 4
+YurikoKoike 2 5
+GretchenWhitmer 1 3
+ZacEfron 2 DennyTamaki 7
+MikeDewine 5 CarrieLam 5
+UddhavThackery 2 TsaiIngwen 2
+TsaiIngwen 6 RalphNortham 1
+StevenReed 2 LarryHogan 5
+DennyTamaki 1 RalphNortham 2
+YurikoKoike 2 4
+StevenReed 6 CharlieBaker 4
+TomWolf 1 4
+EmmanuelMacron 1 2
+PhilMurphy 3 6
+SimonCowell 2 LarryHogan 5
+JaredPolis 8 9
+JaredPolis 3 GretchenWhitmer 5
+DennyTamaki 1 6
+BenAffleck 2 6
+EmmanuelMacron 1 5
+ArifAlvi 1 2
+YurikoKoike 1 4
+RonDesantis 2 4
+DennyTamaki 3 6
+StevenReed 3 RoyCooper 2
+NancyPelosi 2 JustinTrudeau 3
+SimonCowell 1 2
+JustinTrudeau 1 YoshihideSuga 4
+ArifAlvi 2 MikeDewine 2
+XiJinping 2 MuhammadFahmi 1
+DougDucey 5 TsaiIngwen 1
+KyriakosMitsotakis 4 CarrieLam 6
+ZuzanaCaputova 7 RalphNortham 5
+StevenReed 3 RalphNortham 2
+MitchMcConnell 5 GaryHerbert 1
+DennyTamaki 8 EmmanuelMacron 5
+DougDucey 1 3
+JaredPolis 3 7
+ZuzanaCaputova 2 YurikoKoike 4
+LarryHogan 1 3
+MitchMcConnell 1 5
+ImranKhan 6 GaryHerbert 8
+BenAffleck 2 JaredPolis 10
+EricGarcetti 5 DonnellRawlings 2
+NancyPelosi 4 6
+NancyPelosi 8 MitchMcConnell 3
+EmmanuelMacron 3 4
+KyriakosMitsotakis 2 4
+TaroKono 2 GaryHerbert 4
+MikeDewine 4 RoyCooper 6
+BrianKemp 3 4
+RonDesantis 6 JaredPolis 2
+MitchMcConnell 1 2
+JaredPolis 4 9
+RonDesantis 5 CharlieBaker 5
+GavinNewsom 1 TomWolf 2
+MatthewMorrison 2 3
+LadyGaga 2 4
+NancyPelosi 1 6
+ZuzanaCaputova 2 BrianKemp 5
+RoyCooper 2 5
+JoeBiden 1 DougDucey 1
+JaredPolis 2 7
+LadyGaga 4 DougDucey 5
+JonathanBennet 1 2
+XiJinping 2 3
+LarryHogan 2 4
+JaredPolis 6 YoshihideSuga 5
+EricGarcetti 1 2
+YurikoKoike 4 5
+EricGarcetti 4 UddhavThackery 2
+FloydMayweather 2 JaredPolis 6
+StevenReed 3 4
+ImranKhan 2 4
+TomWolf 3 5
+YurikoKoike 2 6
+JaredPolis 5 8
+StevenReed 4 RonDesantis 6
+RoyCooper 4 GaryHerbert 8
+MitchMcConnell 3 DennyTamaki 2
+JaredPolis 4 7
+CharlieBaker 1 EricGarcetti 2
+JoeBiden 1 4
+EmmanuelMacron 1 4
+JaredPolis 4 RoyCooper 5
+RoyCooper 2 3
+BenAffleck 4 6
+SteveHarvey 1 JaredPolis 5
+BellaHadid 1 BenAffleck 4
+NancyPelosi 1 JaredPolis 4
+GaryHerbert 4 7
+TsaiIngwen 2 5
+ZuzanaCaputova 4 5
+ReneeMorrison 1 2
+PharrellWilliams 2 ZuzanaCaputova 2
+ZuzanaCaputova 1 7
+MatthewMorrison 2 EricGarcetti 2
+RalphNortham 2 AhmadAli 2
+DennyTamaki 2 6
+JoeBiden 1 2
+GavinNewsom 2 LarryHogan 3
+KyriakosMitsotakis 2 NancyPelosi 4
+RonDesantis 4 CarrieLam 5
+XiJinping 4 JoeBiden 5
+LarryHogan 4 5
+StevenReed 2 BrianKemp 2
+JaredPolis 2 6
+RoyCooper 4 NancyPelosi 2
+JaredPolis 1 9
+MikeDewine 2 JustinTrudeau 3
+ImranKhan 1 4
+XiJinping 1 2
+BenAffleck 3 4
+EmmanuelMacron 6 ReneeMorrison 1
+DennyTamaki 1 7
+LarryHogan 6 TsaiIngwen 5
+YurikoKoike 2 3
+RoyCooper 3 AhmadAli 3
+GaryHerbert 1 4
+EricGarcetti 1 RoyCooper 6
+AdrianDunbar 1 3
+JaredPolis 1 2
+EricGarcetti 5 EmmanuelMacron 3
+YoshihideSuga 2 MitchMcConnell 1
+PharrellWilliams 4 DennyTamaki 8
+CarrieLam 4 ImranKhan 1
+RonDesantis 5 JaredPolis 10
+CharlieBaker 1 UddhavThackery 1
+RoyCooper 1 4
+ZuzanaCaputova 1 GavinNewsom 2
+BrodyJenner 1 JoeBiden 4
+CarrieLam 4 5
+IgorMatovic 3 PhilMurphy 4
+BenAffleck 5 JustinTrudeau 1
+JaredPolis 4 5
+RoyCooper 6 AhmadAli 1
+YoshihideSuga 3 AhmadAli 1
+CarrieLam 2 5
+GaryHerbert 1 8
+NancyPelosi 5 7
+DougDucey 3 4
+LarryHogan 4 CarrieLam 3
+IgorMatovic 1 2
+JustinTrudeau 3 MikeDewine 1
+GaryHerbert 3 4
+LarryHogan 1 5
+YoshihideSuga 1 2
+IgorMatovic 1 ZuzanaCaputova 6
+PhilMurphy 5 6
+ZuzanaCaputova 2 5
+BenAffleck 2 3
+PhilMurphy 1 TomWolf 2
+NancyPelosi 2 7
+AhmadAli 5 MikeDewine 1
+BenAffleck 1 2
+NancyPelosi 1 3
+LadyGaga 2 3
+ImranKhan 2 BellaHadid 2
+BrodyJenner 2 RalphNortham 3
+EmmanuelMacron 2 4
+ImranKhan 2 MitchMcConnell 3
+MikeDewine 3 EmmanuelMacron 4
+LarryHogan 3 LadyGaga 5
+RonDesantis 4 5
+JaredPolis 3 6
+RalphNortham 3 GaryHerbert 7
+RonDesantis 2 3
+CharlieBaker 2 6
+MikeDewine 1 2
+GaryHerbert 2 7
+CarrieLam 3 5
+BellaHadid 2 BrianKemp 1
+PhilMurphy 7 RalphNortham 5
+DennyTamaki 2 5
+EmmanuelMacron 3 AdrianDunbar 1
+ArifAlvi 2 3
+ZuzanaCaputova 2 6
+ImranKhan 6 LarryHogan 3
+TsaiIngwen 3 5
+XiJinping 1 BenAffleck 6
+TakeOff 3 XiJinping 5
+GaryHerbert 5 KyriakosMitsotakis 1
+RoyCooper 3 5
+MatthewMorrison 3 BrodyJenner 1
+KyriakosMitsotakis 3 JaredPolis 4
+GavinNewsom 1 UddhavThackery 2
+YurikoKoike 1 2
+GavinNewsom 2 NancyPelosi 3
+EmmanuelMacron 1 BrianKemp 3
+MikeDewine 3 ZuzanaCaputova 5
+JaredPolis 5 9
+TsaiIngwen 3 CharlieBaker 4
+NancyPelosi 7 RoyCooper 5
+AhmadAli 1 ImranKhan 1
+GaryHerbert 1 2
+MitchMcConnell 1 4
+CarrieLam 1 IgorMatovic 5
+JaredPolis 4 8
+RoyCooper 5 StevenReed 1
+GaryHerbert 1 7
+DennyTamaki 3 4
+IgorMatovic 4 JoeBiden 3
+StevenReed 3 KimKardashian 1
+JoeBiden 2 4
+CharlieBaker 5 6
+RoyCooper 1 5
+RalphNortham 3 TsaiIngwen 1
+PharrellWilliams 4 PhilMurphy 5
+RalphNortham 2 StevenReed 6
+GretchenWhitmer 3 BrodyJenner 1
+TomWolf 4 5
+RalphNortham 3 4
+JustinTrudeau 1 2
+RoyCooper 3 TomWolf 1
+JustinTrudeau 5 GaryHerbert 4
+BrianKemp 4 JonathanBennet 1
+GaryHerbert 5 7
+LarryHogan 4 YoshihideSuga 1
+VassilisKikilias 3 BrianKemp 2
+JaredPolis 3 9
+IgorMatovic 4 TsaiIngwen 5
+FloydMayweather 3 JaredPolis 9
+YoshihideSuga 1 ImranKhan 6
+YoshihideSuga 2 4
+YurikoKoike 3 6
+ReneeMorrison 3 JoeBiden 3
+DennyTamaki 8 MuhammadFahmi 3
+JustinTrudeau 1 GaryHerbert 6
+CharlieBaker 1 6
+JaredPolis 5 ZacEfron 2
+AdrianDunbar 2 BrodyJenner 1
+UddhavThackery 3 LadyGaga 4
+GavinNewsom 3 RoyCooper 2
+NancyPelosi 2 3
+StevenReed 1 4
+MikeDewine 1 3
+StevenReed 1 5
+GretchenWhitmer 1 2
+CharlieBaker 2 LarryHogan 7
+PhilMurphy 3 4
+GaryHerbert 3 ReneeMorrison 1
+KyriakosMitsotakis 5 MitchMcConnell 5
+GaryHerbert 2 BrodyJenner 2
+YurikoKoike 1 6
+AdrianDunbar 3 CharlieBaker 4
+CarrieLam 4 RoyCooper 5
+StevenReed 1 RonDesantis 4
+MitchMcConnell 5 KyriakosMitsotakis 3
+GretchenWhitmer 4 KimKardashian 2
+PhilMurphy 2 4
+JaredPolis 6 8
+GavinNewsom 6 MuhammadFahmi 1
+StevenReed 2 3
+EricGarcetti 2 4
+EricGarcetti 1 IgorMatovic 1
+PhilMurphy 3 5
+GaryHerbert 5 6
+TomWolf 3 4
+EricGarcetti 2 3
+JoeBiden 2 JaredPolis 4
+CarrieLam 3 GretchenWhitmer 2
+StevenReed 1 2
+GaryHerbert 4 ImranKhan 3
+ZuzanaCaputova 8 EmmanuelMacron 4
+DennyTamaki 5 7
+VassilisKikilias 1 CarrieLam 6
+DennyTamaki 2 4
+GavinNewsom 1 RonDesantis 4
+TsaiIngwen 3 4
+UddhavThackery 2 JustinTrudeau 5
+MitchMcConnell 3 ReneeMorrison 1
+JustinTrudeau 2 3
+DougDucey 2 3
+EmmanuelMacron 3 5
+EmmanuelMacron 2 KimKardashian 2
+RoyCooper 6 SteveHarvey 2
+CarrieLam 5 JustinTrudeau 6
+JustinTrudeau 6 SimonCowell 3
+MuhammadFahmi 1 2
+RalphNortham 5 DennyTamaki 2
+BrianKemp 1 2
+IgorMatovic 1 RonDesantis 3
+ZuzanaCaputova 7 AdrianDunbar 2
+LarryHogan 1 6
+RonDesantis 2 DougDucey 2
+JoeBiden 3 4
+KyriakosMitsotakis 5 MikeDewine 4
+MitchMcConnell 2 3
+CharlieBaker 3 6
+GavinNewsom 1 NancyPelosi 3
+DennyTamaki 1 3
+CharlieBaker 1 2
+TomWolf 2 MikeDewine 4
+GaryHerbert 2 6
+LarryHogan 6 JaredPolis 9
+DennyTamaki 2 CharlieBaker 3
+JustinTrudeau 2 YurikoKoike 1
+MuhammadFahmi 3 CarrieLam 2
+GavinNewsom 1 2
+JaredPolis 6 9
+LarryHogan 3 5
+LadyGaga 4 PhilMurphy 4
+MatthewMorrison 1 3
+BrodyJenner 1 IgorMatovic 4
+MuhammadFahmi 2 CharlieBaker 7
+JaredPolis 5 7
+NancyPelosi 4 BenAffleck 2
+ImranKhan 1 3
+RoyCooper 5 ZacEfron 2
+TomWolf 4 MitchMcConnell 5
+GavinNewsom 4 MuhammadFahmi 3
+CharlieBaker 4 6
+BenAffleck 5 SimonCowell 1
+PhilMurphy 2 5
+EricGarcetti 4 EmmanuelMacron 1
+TomWolf 2 5
+ArifAlvi 2 NancyPelosi 7
+DennyTamaki 5 IgorMatovic 5
+DougDucey 1 2
+ZuzanaCaputova 1 4
+YoshihideSuga 1 5
+DennyTamaki 4 6
+YoshihideSuga 2 JustinTrudeau 2
+YoshihideSuga 4 NancyPelosi 4
+EricGarcetti 4 VassilisKikilias 1
+GretchenWhitmer 2 4
+JaredPolis 2 5
+ZacEfron 3 NancyPelosi 5
+MatthewMorrison 1 KyriakosMitsotakis 1
+TsaiIngwen 2 PhilMurphy 3
+NancyPelosi 4 RoyCooper 5
+JustinTrudeau 4 5
+GaryHerbert 7 8
+DennyTamaki 4 RonDesantis 2
+ReneeMorrison 2 TakeOff 2
+PhilMurphy 1 2
+JaredPolis 7 EricGarcetti 3
+VassilisKikilias 2 ZuzanaCaputova 6
+EricGarcetti 3 4
+AdrianDunbar 1 SteveHarvey 2
+DennyTamaki 4 ZuzanaCaputova 5
+BenAffleck 7 FloydMayweather 1
+KyriakosMitsotakis 5 YurikoKoike 2
+GaryHerbert 1 BrianKemp 2
+PhilMurphy 2 AdrianDunbar 1
+StevenReed 1 CarrieLam 4
+GaryHerbert 5 8
+KyriakosMitsotakis 1 4
+JaredPolis 1 7
