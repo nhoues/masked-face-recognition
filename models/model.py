@@ -9,7 +9,7 @@ class FaceNet(nn.Module):
         super(FaceNet, self).__init__()
         if pretrained:
             self.model = InceptionResnetV1(
-                classify=True, num_classes=1, pretrained="vggface2"
+                classify=True, num_classes=num_classes, pretrained="vggface2"
             )
         else:
             self.model = InceptionResnetV1(
